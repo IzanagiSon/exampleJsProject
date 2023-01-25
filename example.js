@@ -1,9 +1,9 @@
-console.log("Ola World")
+console.log("Ola -World")
 
 const numero1 = 10
 
 const numero2 = 20
 
-const soma = numero1 + numero2
+const subtracao = numero1 - numero2
 
-console.log(soma)
+console.log(subtracao)
